@@ -1,6 +1,6 @@
 # Repo Radar
 
-**Live Demo:** [Insert Your Vercel URL Here]
+**Live Demo:** [https://repo-radar-8vix.vercel.app]
 
 ## Purpose
 Repo Radar is a high-performance, Progressive Web Application (PWA) built with React. It allows developers to discover, filter, and track open-source GitHub repositories. The application fetches real-time data from the GitHub REST API and manipulates it locally on the client side.
